@@ -40,7 +40,7 @@
      -moz-appearance: none;
      appearance: none;
    }
-   
+   /* This code is used to make the cart icon white */
    .w-commerce-commercecartopenlinkcount {
      display: inline-block;
      height: 18px;
