@@ -1,0 +1,1 @@
+In case of use - here is the external file link: [External File Link]https://school-of-hiking.webflow.io/external-file-link created with Figma plugin - Webflow. - Tracey
