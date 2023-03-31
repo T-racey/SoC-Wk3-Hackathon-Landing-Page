@@ -2064,7 +2064,7 @@
      padding: 5px 25px;
      border-style: solid;
      border-width: 1px;
-     border-color: #eb5757;
+     border-color: #ee4266;
      border-radius: 5px;
      background-color: #ee4266;
      transition: border-color 300ms ease, background-color 300ms ease;
@@ -2082,8 +2082,8 @@
    }
    
    .btn.dark:hover {
-     border-color: #eb5757;
-     background-color: #eb5757;
+     border-color: #ee4266;
+     background-color: #ee4266;
    }
    
    .btn.dark.outline {
@@ -2112,8 +2112,8 @@
    }
    
    .btn.light:hover {
-     border-color: #eb5757;
-     background-color: #eb5757;
+     border-color: #ee4266;
+     background-color: #ee4266;
      color: #f9f9f9;
    }
    
@@ -2133,20 +2133,20 @@
    
    .btn.outline {
      background-color: transparent;
-     color: #eb5757;
+     color: #ee4266;
    }
    
    .btn.outline:hover {
-     border-color: #eb5757;
-     background-color: #eb5757;
+     border-color: #ee4266;
+     background-color: #ee4266;
      color: #f9f9f9;
    }
    
    .btn.outline:focus {
      border-style: solid;
      border-width: 1px;
-     border-color: #eb5757;
-     box-shadow: 0 0 2px 0 #eb5757;
+     border-color: #ee4266;
+     box-shadow: 0 0 2px 0 #ee4266;
    }
    
    .color-wrapper {
@@ -2174,7 +2174,7 @@
    }
    
    .color-block.secondary {
-     background-color: #eb5757;
+     background-color: #ee4266;
      color: #f9f9f9;
    }
    
